@@ -14,6 +14,8 @@ Sample website with plenty of files for demos and practice using github.
 
 Send me cash!
 
+Please fork this repository and then issue Pull Requests for review.
+
 ## Deployment
 
 Deployment is better than unemployment.  These files can be anywhere, even a local hard drive.
