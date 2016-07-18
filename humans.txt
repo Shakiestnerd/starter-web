@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Aaron Aardvark -- lead -- aaron@canofworms.org
 
 # THANKS
 
