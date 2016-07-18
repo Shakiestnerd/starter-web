@@ -18,4 +18,7 @@ Send me cash!
 
 Deployment is better than unemployment.  These files can be anywhere, even a local hard drive.
 
+### Copyright
+
+2016 Git.Training
 
